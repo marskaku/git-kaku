@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_DSH_MR1cEeq8f7y5fvgTXQ" label="gihub" description="" language="java" technicalLabel="GIHUB" creationDate="2019-12-13T11:49:10.000+0800" author="_DSImQB1cEeq8f7y5fvgTXQ" productVersion="Talend Data Fabric-7.2.1.20190701_0850" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/marskaku/git-kaku.git&quot;,&quot;login&quot;:&quot;kguo@talend.com&quot;,&quot;passwd&quot;:&quot;xEaNa3fvLAaT7hBHpe3Y5O5hTyurJWiXy/OL+AXqRYHwKWI6KNvpEz+kJyaJi/4A&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_DbCqoB1cEeq8f7y5fvgTXQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_DSImQB1cEeq8f7y5fvgTXQ" login="admin@talend.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
